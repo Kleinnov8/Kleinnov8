@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kleinnov8
+- 👋 Hi, I’m Justin.
 - 👀 I’m interested in ML, AI, Pathfinder TTRPG, and Final Fantasy XIV!
 - 🌱 I’m currently learning all I can about ML and AI!
 - 💞️ I’m looking to collaborate on open source projects related to Pathfinder or FFXIV :)
