@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Justin.
-- 👀 I’m interested in ML, AI, Pathfinder TTRPG, and Final Fantasy XIV!
+- 👀 I’m interested in ML, AI, Pathfinder 2E, and MMORPGs!
 - 🌱 I’m currently learning all I can about ML and AI!
-- 💞️ I’m looking to collaborate on open source projects related to Pathfinder or FFXIV :)
-- 📫 How to reach me? @Kleinnov8 on pretty much any platform!
+- 💞️ I’m open to collaborate on open source projects related to Pathfinder 2E :)
+- 📫 How to reach me? kleinnov8@gmail.com.
 
 <!---
 Kleinnov8/Kleinnov8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
