@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin.
 - 👀 I’m interested in ML, AI, Pathfinder 2E, and MMORPGs!
-- 🌱 I’m currently learning all I can about ML and AI!
+- 🌱 I’m currently learning all I can about IT, Web Dev, and AI!
 - 💞️ I’m open to collaborate on open source projects related to Pathfinder 2E :)
 - 📫 Inquiries / Contact: kleinnov8@gmail.com or admin@dreamdungeon.ai
 
